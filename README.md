@@ -17,5 +17,5 @@ My favorite Earth Science topics:
 * Volcanoes!!!
 * geomagnetics (seems cool)
 
-##Licensing
+## Licensing
 Licensing: The MIT license allows for general modification and distribution of the repository. 
